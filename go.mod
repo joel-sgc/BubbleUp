@@ -1,4 +1,4 @@
-module go.dalton.dog/bubbleup
+module github.com/joel-sgc/BubbleUp
 
 go 1.23.1
 

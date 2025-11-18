@@ -7,7 +7,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"go.dalton.dog/bubbleup"
+	bubbleup "github.com/joel-sgc/BubbleUp"
 	"golang.org/x/term"
 )
 
