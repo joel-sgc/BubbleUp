@@ -11,14 +11,14 @@ Float your alerts to the top of your TUI like a bubble in a soda. Integrates wit
 Run the following to download the module:
 
 ```sh
-go get go.dalton.dog/bubbleup
+go get github.com/joel-sgc/BubbleUp
 ```
 
 Then import it into your project with the following:
 
 ```go
 import (
-    "go.dalton.dog/bubbleup"
+    "github.com/joel-sgc/BubbleUp"
     tea "github.com/charmbracelet/bubbletea"
 )
 ```
